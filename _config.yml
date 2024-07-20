@@ -12,7 +12,7 @@ title                    : "Imad's Hommepage"
 title_separator          : "-"
 name                     : &name "Imad Eddine Benaziza"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://imadbenaziza.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/imadbenaziza/imadbenaziza.github.io"
 
@@ -21,10 +21,10 @@ repository               : "https://github.com/imadbenaziza/imadbenaziza.github.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/my-photo.jpg"
+  avatar           : "my-photo.jpg"
   name             : "Imad Eddine Benaziza"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A cloud enthusiast sharing his tech journey"
   location         : "Algiers"
   employer         : "ENSTTIC"
   uri              : # URL
