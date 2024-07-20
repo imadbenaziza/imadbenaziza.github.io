@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Description of the image](/images/shutterstock_1912951960.jpg){: .align-right style="width: 300px; margin-left: 10px;"}
+![Description of the image](/images/shutterstock_1912951960.jpg){: .align-right style=}
 
     👨🏻‍🎓I'm  Telecommunication engineer and an enthusiast in the fields of networking, cloud,
      virtualization, and DevOps, I have gained valuable
