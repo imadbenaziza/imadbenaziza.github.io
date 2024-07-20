@@ -15,8 +15,8 @@ redirect_from:
  goal is to contribute to stimulating projects while
  remaining open to learning new technologies
 
- # Current Position
- ## 👨🏻‍💻 IT Support engineer at [Icosnet](https://icosnet.com.dz/)
+# Current Position
+## 👨🏻‍💻 IT Support engineer at [Icosnet](https://icosnet.com.dz/)
 
  I am currently working as an IT Support Engineer at an ISP and cloud provider company that also provides mailing services. In this role, my responsibilities include:
 
@@ -27,11 +27,11 @@ redirect_from:
 
  This role has allowed me to gain in-depth knowledge and hands-on experience in various aspects of IT support, networking, and hosting services.
 
-  # Professional Experience
+# Professional Experience
 
  I will not delve into my internships here, as they are thoroughly detailed in my CV. Instead, I want to highlight my experience as a member of a scientific club, where I gained significant soft skills and teamwork experience.
 
-  ## Member of [Igenergy club ](https://www.instagram.com/igenergy.club/)
+## Member of [Igenergy club ](https://www.instagram.com/igenergy.club/)
 
  As a member of the [Igenergy](https://www.instagram.com/igenergy.club/), I was involved in various activities and projects that helped me develop essential skills:
 
