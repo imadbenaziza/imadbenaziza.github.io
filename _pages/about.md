@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- (/images/shutterstock_1912951960.jpg){: .align-right width="300px"}
+ (shutterstock_1912951960.jpg){: .align-right width="300px"}
 👨🏻‍🎓I'm  young enthusiast in the fields of networking, cloud,
  virtualization, and DevOps, I have gained valuable
  experience through professional internships and
