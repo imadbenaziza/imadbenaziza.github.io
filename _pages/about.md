@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Description of the image](/images/shutterstock_1912951960.jpg){: .align-right}
 👨🏻‍🎓I'm a Telecommunication engineer  young enthusiast in the fields of networking, cloud,
  virtualization, and DevOps, I have gained valuable
  experience through professional internships and
