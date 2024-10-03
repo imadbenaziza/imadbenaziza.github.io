@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "👋 Hello there I'm Imad"
+title: "👋 Bonjour, je suis Imad"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-👨🏻‍🎓I am Imad Eddine Benaziza, a telecommunications and information technology engineer, currently pursuing a Specialized Master's degree in Networks and Services at Télécom SudParis, part of the Institut Mines-Télécom. Over the past few years, I have developed my skills in cloud technologies and DevOps, gaining expertise in a variety of tools and platforms such as Microsoft Azure, Docker, Kubernetes, Ansible, and Terraform. You can find some of my documented labs in the publication section above.
+👋 Bonjour, je suis Imad
 
-Most recently, I worked as an IT Support Engineer at Icosnet, where I provided technical support for a range of services including web hosting, virtual private servers, messaging services (IceWarp), and dedicated network links. Today, I am eager to apply my knowledge and contribute to impactful devops and cloud  projects within an enterprise setting.
+👨🏻‍🎓 Je m'appelle Imad Eddine Benaziza, ingénieur en télécommunications et technologies de l'information, actuellement en Master Spécialisé en Réseaux et Services à Télécom SudParis, qui fait partie de l'Institut Mines-Télécom. Au cours des dernières années, j'ai développé mes compétences en technologies cloud et DevOps, acquérant une expertise dans divers outils et plateformes tels que Microsoft Azure, Docker, Kubernetes, Ansible et Terraform. Vous pouvez retrouver certains de mes laboratoires documentés dans la section des publications ci-dessus.
+
+Plus récemment, j'ai travaillé en tant qu'ingénieur support IT chez Icosnet, où j'ai assuré le support technique pour une gamme de services incluant l'hébergement web, les serveurs privés virtuels, les services de messagerie (IceWarp) et les liens réseau dédiés. Aujourd'hui, je suis impatient d'appliquer mes connaissances et de contribuer à des projets impactants dans le domaine du DevOps et du cloud au sein d'une entreprise.
 
