@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Imad's Hommepage"
+title                    : "Page d'accueil d'Imad"
 title_separator          : "-"
 name                     : &name "Imad Eddine Benaziza"
 description              : &description "personal description"
@@ -27,8 +27,9 @@ author:
    Benaziza
   pronouns         : # example: "she/her"  
   bio              : "A cloud enthusiast sharing his tech journey"
-  location         : "Algiers"
-  employer         : "ENSTTIC"
+  location         : "Paris, Île-de-France, France"
+  employer         : "Télécom
+ SudParis, Institut Mines-Télécom"
 
   # Academic websites
   linkedin         : "/imad-eddine-benaziza-0a04391a3/"
